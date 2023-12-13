@@ -1,7 +1,6 @@
 package com.weather.WeatherPlus.getters;
 
 import com.weather.WeatherPlus.parsers.ParserAdvancedWeather;
-import com.weather.WeatherPlus.parsers.ParserBaseWeather;
 
 import java.io.IOException;
 

@@ -4,8 +4,6 @@ import com.weather.WeatherPlus.parsers.ParserBaseWeather;
 
 import java.io.IOException;
 
-import static com.weather.WeatherPlus.parsers.ParserBaseWeather.getUrlContent;
-
 public class GetterBaseWeather {
 
     public String getWeather() throws IOException {
